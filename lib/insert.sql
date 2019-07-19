@@ -18,3 +18,4 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 ('I Wrote a book on SQL', 'Book', 5000, '9/1/16', '10/1/16');
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
 ("Just kidding, I didn't", 'Book', 6000, '10/1/16', '12/1/16');
+
